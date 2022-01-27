@@ -7,12 +7,13 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<br/>
 
-### Currently working
+## Currently working
  - 🌱 Artificial intelligence for greenhouses (PhD main topic)
  
  
- ### Past projects (University)
+ ## Past projects (University)
  - 🧠 Variational Autoencoder applied to EEG classification (Post graduation research)
  - 🧠 Convolutional neural network applied to EEG classification [[1]][paper1] (Master's thesis)
  - 🧠 Machine learning applied to EEG classification (Master's thesis)
@@ -21,14 +22,15 @@
  - 💊 11 C-PIB tracer mathematical modelling (Bachelor's thesis)
 
 
-### Free time projects
+## Free time projects
 - [Fractals](https://en.wikipedia.org/wiki/Fractal) generator in Python
 - [Cellular Automata](https://en.wikipedia.org/wiki/Cellular_automaton) in Python
 - [Arctic Circle Theorem](https://en.wikipedia.org/wiki/Aztec_diamond) visualization in Unity
 - Evolution Simulator in Unity
 - Solar System Simulation in Unity
  
- 
+
+## Project's repository
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology** | 🚀 **Projects** |
 |-|-|
