@@ -16,7 +16,7 @@
  ## Past projects (University)
  - 🧠 Variational Autoencoder applied to EEG classification (Post graduation research)
  - 🧠 Convolutional neural network applied to EEG classification [[1]][paper1] (Master's thesis)
- - 🧠 Machine learning applied to EEG classification (Master's thesis)
+ - 🧠 Machine learning applied to EEG classification (CSP and FBCSP algorithm) (Master's thesis)
  - 👋 Augmented reality in unity with hand tracking (Course project)
  - 👋 Pytorch hand tracking (Course project)
  - 💊 11 C-PIB tracer mathematical modelling (Bachelor's thesis)
