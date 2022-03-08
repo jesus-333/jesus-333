@@ -58,4 +58,4 @@
 [instagram]: https://www.instagram.com/gesu3333/
 [linkedin]: https://www.linkedin.com/in/alberto-zancanaro-2a3a39216/
 
-[paper1]: https://ieeexplore.ieee.org/abstract/document/9530574
+[paper1]: https://ieeexplore.ieee.org/document/9562821
