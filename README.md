@@ -11,6 +11,7 @@
 
 ## Currently working
  - 🌱 Artificial intelligence for greenhouses (PhD main topic)
+ - 🌐 Age of Information (et simili) for network optimization
  
  
  ## Past projects (University)
@@ -45,6 +46,8 @@
   <summary>Click to expand!</summary>
  
   - [[1]][paper1] A. Zancanaro,  G. Cisotto, J.R.Paulo, G. Pires, and U. J. Nunes, “CNN-based approaches for cross-subject classification in motor imagery:From the state-of-the-art to   Dynamicnet,”  in 2021 IEEE Conferenceon Computational Intelligence in Bioinformatics and ComputationalBiology (CIBCB), 2021, pp. 1–7
+  - [[2]][medComNet2022] A. Zancanaro, G. Cisotto, L. Badia, "Modeling Value of Information in Remote Sensing from Correlated Sources" in 2022 IEEE Mediterranean Communication and Computer Networking Conference (MedComNet)
+  - A. Zancanaro, G. Cisotto, L. Badia, "Challenges of the Age of Information Paradigm for Metrology in Cyberphysical Ecosystems" in 2022 IEEE Metrology for Living Environment (MetroLivEnv)
   - Yeah very short... I hope to enlarge it in the future 😂
  
 </details>
@@ -60,3 +63,4 @@
 [linkedin]: https://www.linkedin.com/in/alberto-zancanaro-2a3a39216/
 
 [paper1]: https://ieeexplore.ieee.org/document/9562821
+[medComNet2022]: http://www.dei.unipd.it/~badia/papers/2022_06_MedComNet_corr
