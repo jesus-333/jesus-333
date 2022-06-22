@@ -11,7 +11,7 @@
 
 ## Currently working
  - 🌱 Artificial intelligence for greenhouses (PhD main topic)
- - 🌐 Age of Information (et simili) for network optimization
+ - 🌐 Age of Information (et similia) for network optimization
  
  
  ## Past projects (University)
