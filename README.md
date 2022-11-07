@@ -16,7 +16,7 @@
  
  ## Past projects (University)
  - 🧠 [Variational Autoencoder (VAE)](https://arxiv.org/abs/1312.6114) applied to EEG classification (Post graduation research)
- - 🧠 Convolutional neural network applied to EEG classification [[1]][paper1] (Master's thesis)
+ - 🧠 Convolutional neural network applied to EEG classification [[1]][CIBCB2021_Coimbra] (Master's thesis)
  - 🧠 Machine learning applied to EEG classification (CSP and FBCSP algorithm) (Master's thesis)
  - 👋 Augmented reality in unity with hand tracking (Course project)
  - 👋 Pytorch hand tracking (Course project)
@@ -45,13 +45,13 @@
 <details>
   <summary>Click to expand!</summary>
  
-  - [[1]][paper1] A. Zancanaro,  G. Cisotto, J.R.Paulo, G. Pires, and U. J. Nunes, “CNN-based approaches for cross-subject classification in motor imagery:From the state-of-the-art to   Dynamicnet,”  in 2021 IEEE Conferenceon Computational Intelligence in Bioinformatics and ComputationalBiology (CIBCB), 2021, pp. 1–7
+  - [[1]][CIBCB2021_Coimbra] A. Zancanaro,  G. Cisotto, J.R.Paulo, G. Pires, and U. J. Nunes, “CNN-based approaches for cross-subject classification in motor imagery:From the state-of-the-art to   Dynamicnet,”  in 2021 IEEE Conferenceon Computational Intelligence in Bioinformatics and ComputationalBiology (CIBCB), 2021, pp. 1–7
   - [[2]][medComNet2022] A. Zancanaro, G. Cisotto, L. Badia, "Modeling Value of Information in Remote Sensing from Correlated Sources" in 2022 IEEE Mediterranean Communication and Computer Networking Conference (MedComNet)
-  - A. Zancanaro, G. Cisotto, L. Badia, "Challenges of the Age of Information Paradigm for Metrology in Cyberphysical Ecosystems" in 2022 IEEE Metrology for Living Environment (MetroLivEnv)
+  - [[3]][metroLivEnv2022] A. Zancanaro, G. Cisotto, L. Badia, "Challenges of the Age of Information Paradigm for Metrology in Cyberphysical Ecosystems" in 2022 IEEE Metrology for Living Environment (MetroLivEnv)
+  - A. Zancanaro, G. Cisotto, D. Tegegn, L. Badia, S. L. Manzoni, I. Reguzzoni, E. Lotti, I. Zoppis, "Variational Autoencoder for Early Stress Detection in Smart Agriculture: A Pilot Study" in 2022 IEEE Metrology for Agriculture and Forestry
   - Yeah very short... I hope to enlarge it in the future 😂
  
 </details>
-
 
 ## Stats
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jesus-333&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
@@ -62,5 +62,6 @@
 [instagram]: https://www.instagram.com/gesu3333/
 [linkedin]: https://www.linkedin.com/in/alberto-zancanaro-2a3a39216/
 
-[paper1]: https://ieeexplore.ieee.org/document/9562821
+[CIBCB2021_Coimbra]: https://ieeexplore.ieee.org/document/9562821
 [medComNet2022]: http://www.dei.unipd.it/~badia/papers/2022_06_MedComNet_corr
+[metroLivEnv2022]: https://ieeexplore.ieee.org/document/9826967
