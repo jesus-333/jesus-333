@@ -31,7 +31,7 @@
 - [Arctic Circle Theorem](https://en.wikipedia.org/wiki/Aztec_diamond) visualization in Unity
 - Evolution Simulator in Unity
 - Solar System Simulation in Unity
-- Neovim config ([link](https://github.com/jesus-333/neovim-config/graphs/traffic))
+- Neovim config ([link](https://github.com/jesus-333/neovim-config))
  
 
 ## Project's repository
