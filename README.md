@@ -50,8 +50,6 @@
 
 The full list is available on my [Google Scholar profile](https://scholar.google.com/citations?user=P57g8QMAAAAJ).
 
-## Stats
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jesus-333&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 [youtube]: https://www.youtube.com/channel/UCsq-ulESicHkELSIwrIQGvw
 [twitter]: https://twitter.com/_jesus_az
