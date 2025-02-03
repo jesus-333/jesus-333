@@ -1,4 +1,4 @@
- ### Hi! I'm Alberto Zancanaro, a PhD candidate from the University of Padua
+ ### Hi! I'm Alberto Zancanaro, a Postdoc researcher at Luxembourg Centre for Systems Biomedicine (LCSB)
  
  ## Contacs
  
@@ -11,9 +11,12 @@
 <br/>
 
 ## Currently working
- - 🧠 Deep Learning for EEG Analysis
- - 🌱 Artificial intelligence for greenhouses
- - 🌐 Age of Information (et similia) for network optimization
+- 🧠 Deep Learning for EEG Analysis
+- 🏥 Federated Learning for Healthcare
+
+## Past research topics
+- 🌱 Artificial intelligence for greenhouses)
+- 🌐 Age of Information (et similia) for network optimization
  
  ## Past projects (University)
  - 🧠 [Variational Autoencoder (VAE)](https://arxiv.org/abs/1312.6114) applied to EEG classification (Post graduation research)
@@ -34,20 +37,6 @@
 - Neovim config ([link](https://github.com/jesus-333/neovim-config))
  
 ## Pubblications 
-<details>
-  <summary>Click to expand!</summary>
- 
-  - [[1]][CIBCB2021_Coimbra] A. Zancanaro,  G. Cisotto, J.R.Paulo, G. Pires, and U. J. Nunes, “CNN-based approaches for cross-subject classification in motor imagery:From the state-of-the-art to   Dynamicnet,”  in 2021 IEEE Conferenceon Computational Intelligence in Bioinformatics and ComputationalBiology (CIBCB), 2021, pp. 1–7
-  - [[2]][medComNet2022] A. Zancanaro, G. Cisotto, L. Badia, "Modeling Value of Information in Remote Sensing from Correlated Sources" in 2022 IEEE Mediterranean Communication and Computer Networking Conference (MedComNet)
-  - [[3]][metroLivEnv2022] A. Zancanaro, G. Cisotto, L. Badia, "Challenges of the Age of Information Paradigm for Metrology in Cyberphysical Ecosystems" in 2022 IEEE Metrology for Living Environment (MetroLivEnv)
-  - [[4]][metroAgriFor2022] A. Zancanaro, G. Cisotto, D. Tegegn, L. Badia, S. L. Manzoni, I. Reguzzoni, E. Lotti, I. Zoppis, "Variational Autoencoder for Early Stress Detection in Smart Agriculture: A Pilot Study" in 2022 IEEE Metrology for Agriculture and Forestry
-  - [[5]][ICT4AWE_2023] A. Zancanaro, G. Cisotto, S. L. Manzoni, I. Zoppis. "vEEGNet: learning latent representations to reconstruct EEG raw data via variational autoencoders". In: International Conference on Information and Communication Technologies for Ageing Well and e-Health
-  - [[6]][ICT4AWE_2023_extension] A. Zancanaro, G. Cisotto, S. L. Manzoni, I. Zoppis, "vEEGNet: A new deep learning model to classify and generate EEG" in Proceedings of the 9th International Conference on Information and Communication Technologies for Ageing Well and e-Health, ICT4AWE 2023, Prague, Czech Republic, April 22-24, 2023 (Vol. 2023, pp. 245-252)
-  - [[7]][hvEEGNet] G. Cisotto, A. Zancanaro, S. L. Manzoni, I. Zoppis, "HvEEGNet: A New Deep Learning Model for High-Fidelity EEG Reconstruction" (under review) 
-
- 
-</details>
-
 The full list is available on my [Google Scholar profile](https://scholar.google.com/citations?user=P57g8QMAAAAJ).
 
 
