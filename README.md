@@ -15,11 +15,11 @@
 - 🏥 Federated Learning for Healthcare
 
 ## Past research topics
-- 🌱 Artificial intelligence for greenhouses)
+- 🌱 Artificial intelligence for greenhouses
 - 🌐 Age of Information (et similia) for network optimization
  
  ## Past projects (University)
- - 🧠 [Variational Autoencoder (VAE)](https://arxiv.org/abs/1312.6114) applied to EEG classification (Post graduation research)
+ - 🧠 [Variational Autoencoder (VAE)](https://arxiv.org/abs/1312.6114) applied to EEG Analysis (Post graduation research)
  - 🧠 CNN for EEG classification (Master's thesis)
  - 🧠 Machine learning applied to EEG classification (CSP and FBCSP algorithm) (Master's thesis)
  - 👋 Augmented reality in Unity with hand tracking
